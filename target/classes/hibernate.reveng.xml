@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<table-filter match-name="activity" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="article" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="chapter" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="classify" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="comment" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="course" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="exercise" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="experience"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="log" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="material" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="note" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="object_tag"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="opus" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="opus_guide"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="orientation"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="plan" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="practice" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="privilege" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="question" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="reply" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="role" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="role_privilege"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="section" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="settings" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="sns" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="stage" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="step" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="step_course"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="study_progress"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="tag" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="title" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="topic" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="type" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="user" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="user_course"
+		match-catalog="micro_course">
+	</table-filter>
+	<table-filter match-name="user_plan" match-catalog="micro_course"></table-filter>
+	<table-filter match-name="verify" match-catalog="micro_course"></table-filter>
+</hibernate-reverse-engineering>

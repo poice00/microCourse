@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/mc/controller/ActivityController.java=UTF-8
+encoding//src/main/java/com/mc/controller/AdminController.java=UTF-8
+encoding//src/main/java/com/mc/controller/ArticleController.java=UTF-8
+encoding//src/main/java/com/mc/controller/CourseController.java=UTF-8
+encoding//src/main/java/com/mc/controller/ImageController.java=UTF-8
+encoding//src/main/java/com/mc/controller/OpusController.java=UTF-8
+encoding//src/main/java/com/mc/controller/PlanController.java=UTF-8
+encoding//src/main/java/com/mc/controller/UserController.java=UTF-8
+encoding//src/main/java/com/mc/controller/WenDaController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/jsps/common/other_learned.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsps/course/list.jsp=UTF-8
+encoding/<project>=UTF-8

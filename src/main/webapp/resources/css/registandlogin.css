@@ -1,0 +1,74 @@
+
+.modal-header .active-title,
+.modal-header span:hover {
+  border-bottom: 1px solid #cc0000;
+  color: #cc0000;
+}
+.modal-header h1 {
+  font-size: 16px;
+  line-height: 49px;
+  height: 49px;
+  color: #666;
+  border-bottom: 1px solid #d0d6d9;
+}
+.modal-header h1 span {
+  float: left;
+  width: 80px;
+  text-align: center;
+  height: 49px;
+  line-height: 49px;
+  cursor: pointer;
+}
+
+.modal-body {
+  padding: 30px 45px 0;
+}
+.flr {
+  font-size: 12px;
+  height: 26px;
+  
+}
+.btn-red {
+  background-color: #f01400;
+  border-color: #f01400;
+}
+.btn-full {
+  width: 300px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  font-family: "Microsoft Yahei", "Hiragino Sans GB", Helvetica, "Helvetica Neue", "微软雅黑", Tahoma, Arial, sans-serif;
+}
+.rlf-tip-globle {
+  font-size: 14px;
+  height: 30px;
+  line-height: 30px;
+}
+.modal  .ipt {
+  width: 279px;
+  padding: 9px 9px 9px 10px;
+  background-color: #fff;
+  border-color: #d0d6d9;
+  box-shadow: 2px 0px 5px 0px #fff;
+}
+.modal fade .btn-red {
+  color: #ffffff;
+  background-color: #cc0000;
+  border-color: #cc0000;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+  -weibkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  width: 138px;
+  height: 38px;
+  line-height: 38px;
+}
+.tab-content span{
+	color: red
+}
+.verify-img{
+	height: 35px;
+	width: 85px
+}
